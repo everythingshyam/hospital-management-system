@@ -6,11 +6,12 @@
 
     - Made as a Mini Project in Second Semester
     - Team Members:
-        - [Shyam Sundar Tiwari](https://www.linkedin.com/in/everythingshyam/)
-        - [Sumit Tekan](https://www.linkedin.com/in/sumit-tekam-809ab8209/)
-        - [Shrikant Gobre](https://www.linkedin.com/in/shrikant-gobre-11619a224/)
-        - [Mayur Tambe](https://www.linkedin.com/in/mayur-tambe-a4b885229/)
-    - Supervised By: [Mrs. Savita Kumbhare](https://www.linkedin.com/in/savita-kumbhare-a4591b16/)
+        - [Shyam Sundar Tiwari]     (https://www.linkedin.com/in/everythingshyam/)
+        - [Sumit Tekan]             (https://www.linkedin.com/in/sumit-tekam-809ab8209/)
+        - [Shrikant Gobre]          (https://www.linkedin.com/in/shrikant-gobre-11619a224/)
+        - [Mayur Tambe]             (https://www.linkedin.com/in/mayur-tambe-a4b885229/)
+    - Supervised By:
+        -[Mrs. Savita Kumbhare]     (https://www.linkedin.com/in/savita-kumbhare-a4591b16/)
     - Started On: 20th June 2021
     - Completed On: 25th August 2021
 

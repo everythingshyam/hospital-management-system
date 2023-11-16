@@ -54,17 +54,17 @@ int adminCount;		   // must be 1, but just for future-proofing
 
 time_t mytime;
 
-void authorize(int);		 // Function to authorize user/admin
 int activeUser = -1;		 // stores index no of active User
 int isUser = -1;			 // stores login status of user, -1 for not logged in
 int isAdmin = -1;			 // stores login status of admin, -1 for not logged in
 const int maxLoginCount = 3; // stores no of login attempts allowed
 
-void import();		// imports data from backup files
-void backup();		// backs up data to backup files
-void wait(int);		// utility function to wait for given no of seconds
-void screenReset(); // refreshes the screen and content (header only)
-
+// Utility Functions
+void authorize(int);  // Function to authorize user/admin
+void import();		  // imports data from backup files
+void backup();		  // backs up data to backup files
+void wait(int);		  // utility function to wait for given no of seconds
+void screenReset();	  // refreshes the screen and content (header only)
 void encrypt(char *); // utility function to encrypt a string
 void decrypt(char *); // utility function to decrypt a string
 int encryptInt(int);  // utility function to encrypt an integer
